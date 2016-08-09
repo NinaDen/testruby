@@ -4,6 +4,8 @@ class Test
 	end
 	
 	def bye
+	    a = [1,2,3]
+		puts a.inspect
 		puts "bye"
 	end
 	
