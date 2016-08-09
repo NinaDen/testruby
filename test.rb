@@ -3,7 +3,7 @@ class Test
 		puts "hello"
 	end
 	
-	def bye
+	def goodbye
 		puts "bye"
 	end
 	
